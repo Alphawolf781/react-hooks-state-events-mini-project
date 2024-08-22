@@ -13,7 +13,7 @@ function TaskList({ tasks, onDeleteTask }) {
          onDeleteTask={() => onDeleteTask(task.id)}
        />
      ))}
-   </div>
+   </div> 
  );
 }
 
